@@ -1,5 +1,11 @@
 package dsa.leetcode.array;
 
+/*Problem :
+ * Solution;
+ * TC:O(N) / can be solve by implementing binary search
+ * SC:O(1)
+ */
+
 public class SearchInsertPosition {
 
 	public static void main(String[] args) {
