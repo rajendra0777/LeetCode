@@ -1,5 +1,10 @@
 package in.leetcode;
 
+/*
+ * Problem: Leetcode Interview assesment (832 Flipping an Image)
+ * Solution:https://leetcode.com/problems/flipping-an-image/submissions/
+ */
+
 public class FlipAndRevertImage {
 	public static void main(String[] args) {
 		int[][] image = { { 1, 1, 0 }, { 1, 0, 1 }, { 0, 0, 0 } };
@@ -14,10 +19,6 @@ public class FlipAndRevertImage {
 		}
 
 	}
-
-	/*
-	 * 1. Reverse / swap elements 2. Revert / change values
-	 */
 
 	public int[][] flipAndInvertImage(int[][] image) {
 
